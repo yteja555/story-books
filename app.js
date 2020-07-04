@@ -56,7 +56,6 @@ const {
   editIcon,
   select,
 } = require("./helpers/hbs");
-const checkEnvironment = require("./config/checkEnvironment");
 
 // Handlebars
 app.engine(
